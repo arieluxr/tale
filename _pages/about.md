@@ -1,13 +1,14 @@
 ---
-layout: post
-title: "About"
-author: "Chester"
+layout: page
+title: "Workshop on Forms of Fraudulence in Human-Centered Design"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+New technical forms of deception–including AI deepfakes and unethical uses of ChatGTP–have gained attention in the wider research community and media. There has also been an increase in the coordinated social activities of bad actors posing as legitimate human research participants. People, for example, sign up for online HCI studies by misrepresenting their identities and experiences.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+This workshop explores what counts as “fraud” in the rapidly changing sociotechnical landscape of qualitative HCI research sites, and how might our community better understand (and strategically handle) new forms of fraudulence in human-centered design. Researchers across academia and industry are invited to participate in this discourse, share their personal experiences, explore potential strategies to combat fraudulence and reflect critically on the efficacies and shortcomings of such strategies.
+
+Outcomes of this workshop include working towards better guidelines, forming a community of researchers to support those impacted by fraudulence, and collaboratively defining a research agenda based on workshop discussions.
 
 ## Contribute
 Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
