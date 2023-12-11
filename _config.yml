@@ -16,7 +16,10 @@ author:
 # Build settings
 markdown:       kramdown
 include:
-  - _pages
+  - {file: index.html, title: "Home"}
+  - {file: CODE OF CONDUCT.md, title: "For Attendees"}
+  - {file: README.md, title: "About"}
+  
 
 # Assets
 sass:
